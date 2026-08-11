@@ -1,0 +1,21 @@
+{
+  "name": "Velora — Hossein Tavakoli",
+  "short_name": "Velora",
+  "description": "پورتفولیوی حرفه‌ای حسین توکلی، برنامه‌نویس وب و طراح سایت.",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#08090D",
+  "theme_color": "#101827",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
